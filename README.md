@@ -31,6 +31,7 @@ chain.add(
 chain.traverse(function() {
   // done
 });
+```
 
 ## License
 MIT
