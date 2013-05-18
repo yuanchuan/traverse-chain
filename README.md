@@ -21,7 +21,7 @@ chain.add(
       chain.next();
     }, 2000);
   },
-  functin() {
+  function() {
     setTimeout(function() {
       chain.next();
     }, 1000); 
